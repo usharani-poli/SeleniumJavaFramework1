@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23917" started-at="2019-12-27T23:29:46Z" finished-at="2019-12-27T23:30:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23917" started-at="2019-12-27T23:29:46Z" finished-at="2019-12-27T23:30:10Z">
+      <class name="BrowserTest">
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:BrowserTest@2d554825]" name="setupTest" is-config="true" duration-ms="15107" started-at="2019-12-27T15:29:46Z" finished-at="2019-12-27T15:30:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="test()[pri:0, instance:BrowserTest@2d554825]" name="test" duration-ms="4193" started-at="2019-12-27T15:30:01Z" finished-at="2019-12-27T15:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDownTest()[pri:0, instance:BrowserTest@2d554825]" name="tearDownTest" is-config="true" duration-ms="4553" started-at="2019-12-27T15:30:05Z" finished-at="2019-12-27T15:30:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- BrowserTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
